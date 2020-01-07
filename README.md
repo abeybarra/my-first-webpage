@@ -20,4 +20,4 @@ ___
 * Even more changes
 ## Legal
 ---
-<em>copyright by Abe and Jeremy</em>
+<em>copyright by Abe and Jeremy 2020</em>
